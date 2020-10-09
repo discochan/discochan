@@ -1,4 +1,6 @@
 ## Discorddddddd
+![1](https://user-images.githubusercontent.com/68989092/95602935-98334f80-0a90-11eb-8c26-e6af8c72fda7.png)
+
 - 映像
 - プログラミング
 - DTM
