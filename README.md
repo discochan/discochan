@@ -1,16 +1,14 @@
-### Hi there 👋
+## Discorddddddd
+- 映像
+- プログラミング
+- DTM
+- 太鼓の達人
 
-<!--
-**Discorddddddd/Discorddddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+映像制作と太鼓の達人をメインに活動しています。
+プログラムも最近またハマりだしています。
 
-Here are some ideas to get you started:
+[YouTube](https://www.youtube.com/channel/UCEyHsbXJc6I-3whBg5GvQCw)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://twitter.com/_discorddddddd_)
+
+Discord : Discorddddddd#7069
