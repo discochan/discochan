@@ -10,6 +10,8 @@
 プログラムも最近またハマりだしています。
 うんこが好きです。
 
+[Web](https://discochan.github.io/)
+
 [YouTube](https://www.youtube.com/channel/UCEyHsbXJc6I-3whBg5GvQCw)
 
 [Twitter](https://twitter.com/_discorddddddd_)
