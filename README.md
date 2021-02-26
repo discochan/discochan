@@ -1,4 +1,4 @@
-## Discorddddddd
+## 多彩モノ
 ![1](https://user-images.githubusercontent.com/68989092/95603372-24de0d80-0a91-11eb-8331-a2c6f515ba0c.png)
 
 - 映像
@@ -16,8 +16,4 @@
 
 [Twitter](https://twitter.com/_discorddddddd_)
 
-Discord : Discorddddddd#7069
-
-## 連絡
-連絡や質問などがありましたら
-Discord、TwitterのDMへお越しください。
+Discord : 多彩モノ#7069
