@@ -1,14 +1,12 @@
 ## 多彩モノ
-![1](https://user-images.githubusercontent.com/68989092/95603372-24de0d80-0a91-11eb-8331-a2c6f515ba0c.png)
+![1](https://user-images.githubusercontent.com/68989092/109325313-21f58500-7899-11eb-8bfd-a1eb19e07dbc.png)
 
 - 映像
 - プログラミング
-- DTM
-- 太鼓の達人
+- CG
+- デザイン
 
-映像制作と太鼓の達人をメインに活動しています。
-プログラムも最近またハマりだしています。
-うんこが好きです。
+映像制作をメインに活動しています。
 
 [Web](https://discochan.github.io/)
 
