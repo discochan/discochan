@@ -7,7 +7,7 @@
 
 映像制作をメインに活動しています。
 
-[Web](https://discochan.github.io/)
+[Web](https://tapsymono.netlify.app/)
 
 [YouTube](https://www.youtube.com/channel/UCEyHsbXJc6I-3whBg5GvQCw)
 
